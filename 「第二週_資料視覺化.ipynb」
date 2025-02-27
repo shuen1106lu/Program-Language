@@ -6,13 +6,13 @@ playtimes = {
     "first": {
         "Genshin": 30,
         "Starrail": 60,
-        "ZoneZero": 45,
+        "ZenlessZoneZero": 45,
         "None": 0,
     },
     "second": {
         "Genshin": 30,
         "Starrail": 60,
-        "ZoneZero": 45,
+        "ZenlessZoneZero": 45,
         "None": 0,
     }
 }
