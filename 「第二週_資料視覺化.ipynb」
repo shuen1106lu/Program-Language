@@ -54,3 +54,25 @@ header = ["Day", "Time", "First", "Second", "Playtimes"]
 
 df = pd.DataFrame(plays, columns=["Day", "Time", "First", "Second", "Playtimes"])
 df
+
+from google.colab import auth
+auth.authenticate_user()
+
+import gspread
+from google.auth import default
+creds, _ = default()
+
+gc = gspread.authorize(creds)
+
+import pandas as pd
+# read data and put it in a dataframe
+# 在 google 工作表載入 gsheets
+gsheets = gc.open_by_url('https://docs.google.com/spreadsheets/d/14M0PcGeLPk-pwl6etoQYYiRo_JRy28sj6-uElhvsw2c/edit?usp=sharing')
+
+from gspread_dataframe import set_with_dataframe
+
+# 選擇要更新的工作表（選擇第一個工作表）
+worksheet = gsheets.get_worksheet(0)  # 如果是其他工作表，可以用 get_worksheet(index)
+
+# 將 DataFrame 寫入 Google Sheets
+set_with_dataframe(worksheet, df)
