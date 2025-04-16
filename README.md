@@ -11,3 +11,6 @@
 
 第四次作業：https://colab.research.google.com/drive/1q3NAxKSv91AS75T5BFhAwuVkecqNu1fL?usp=sharing
 關於「幻想鄉」的描述與簡介，及常見字詞的特色
+
+期末專題影片連結
+https://youtu.be/bp-bTpEvU4U?si=_4TNTJKKtyLhJAUy
