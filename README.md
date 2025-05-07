@@ -17,3 +17,6 @@ https://youtu.be/bp-bTpEvU4U?si=_4TNTJKKtyLhJAUy
 
 第五次作業
 https://colab.research.google.com/drive/1irlLrPwEqILQGYWiCELRxM_kA3ET-hOU#scrollTo=ChK3Im9afsmm
+
+第一次進度報告影片
+https://youtu.be/guIjrDoQ0TM?si=NOLP8PgWMrc8YZa4
