@@ -20,3 +20,6 @@ https://colab.research.google.com/drive/1irlLrPwEqILQGYWiCELRxM_kA3ET-hOU#scroll
 
 第一次進度報告影片
 https://youtu.be/guIjrDoQ0TM?si=NOLP8PgWMrc8YZa4
+
+期末專題成果報告影片：
+https://youtu.be/5HwqMORqXLI
